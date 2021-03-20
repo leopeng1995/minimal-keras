@@ -6,7 +6,7 @@ gast==0.2.2
 google-pasta==0.2.0
 grpcio==1.19.0
 h5py==2.9.0
-Jinja2==2.10
+Jinja2==2.11.3
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.0.9
 livereload==2.6.0
